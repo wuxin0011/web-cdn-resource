@@ -30,6 +30,20 @@
   <link href="https://cdn.staticaly.com/gh/wuxin0011/web-cdn-resource@main/alimama/Alimama_DongFangDaKai_Regular.woff2" rel="stylesheet" type="application/octet-stream">
   <link href="https://cdn.staticaly.com/gh/wuxin0011/web-cdn-resource@main/alimama/Alimama_DongFangDaKai_Regular.woff" rel="stylesheet" type="application/octet-stream">
   <link href="https://cdn.staticaly.com/gh/wuxin0011/web-cdn-resource@main/alimama/Alimama_DongFangDaKai_Regular.otf" rel="stylesheet" type="application/octet-stream">
-  <link href="cdn.staticaly.com/gh/wuxin0011/web-cdn-resource@main/alimama/Alimama_DongFangDaKai_Regular.ttf" rel="stylesheet" type="application/octet-stream">
+  <link href="https://cdn.staticaly.com/gh/wuxin0011/web-cdn-resource@main/alimama/Alimama_DongFangDaKai_Regular.ttf" rel="stylesheet" type="application/octet-stream">
+```
+
+
+
+
+
+### MaterialDesign-Webfont
+
+```html
+ <link href="https://cdn.staticaly.com/gh/wuxin0011/web-cdn-resource@main/MaterialDesign-Webfont/7.2.96/css/materialdesignicons.css" rel="stylesheet">
+  <link href="https://cdn.staticaly.com/gh/wuxin0011/web-cdn-resource@main/MaterialDesign-Webfont/7.2.96/fonts/materialdesignicons-webfont.woff" rel="stylesheet" type="application/octet-stream">
+  <link href="https://cdn.bootcdn.net/ajax/libs/MaterialDesign-Webfont/7.2.96/fonts/materialdesignicons-webfont.eot" rel="stylesheet" type="application/octet-stream">
+  <link href="https://cdn.staticaly.com/gh/wuxin0011/web-cdn-resource@main/MaterialDesign-Webfont/7.2.96/fonts/materialdesignicons-webfont.woff2" rel="stylesheet" type="application/octet-stream">
+  <link href="https://cdn.staticaly.com/gh/wuxin0011/web-cdn-resource@main/MaterialDesign-Webfont/7.2.96/fonts/materialdesignicons-webfont.ttf" rel="stylesheet" type="application/octet-stream">
 ```
 
