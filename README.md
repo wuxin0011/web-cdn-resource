@@ -76,7 +76,7 @@ body {
 - [materialdesignicons-webfont.woff2](./MaterialDesign-Webfont/7.2.96/fonts/materialdesignicons-webfont.woff2)
 - [materialdesignicons-webfont.woff](./MaterialDesign-Webfont/7.2.96/fonts/materialdesignicons-webfont.woff)
 - [materialdesignicons-webfont.ttf](./MaterialDesign-Webfont/7.2.96/fonts/materialdesignicons-webfont.ttf)
-- [materialdesignicons-webfont.otf](./MaterialDesign-Webfont/7.2.96/fonts/materialdesignicons-webfont.otf)
+- [materialdesignicons-webfont.eot](./MaterialDesign-Webfont/7.2.96/fonts/materialdesignicons-webfont.eot)
 
 
 
