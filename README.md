@@ -1,6 +1,6 @@
 # web资源的仓库
 
-![](https://cdn.staticaly.com/gh/wuxin0011/blog-resource@main/icon/logo.ico)
+
 
 
 
@@ -46,7 +46,7 @@ body {
 }
 ```
 
-
+**注意：如果引入样式失效，请尝试访问链接或者更换[CDN](#参考链接)** 
 
 
 
@@ -82,12 +82,16 @@ body {
 
 
 
-
-
 ## 参考链接
+
+###  说明参考
 
 - [vuetify](https://vuetifyjs.com/en/features/icon-fonts/)
 - [link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link#attributes)
-- [bootCDN](https://www.bootcdn.cn/MaterialDesign-Webfont/)
-
 - [font-face](https://developer.mozilla.org/en/docs/Web/CSS/@font-face)
+
+### CDN 参考
+
+- [jsdelivr](https://www.jsdelivr.com/)
+- [statically](https://statically.io/)
+- [bootCDN](https://www.bootcdn.cn/MaterialDesign-Webfont/)
